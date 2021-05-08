@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/keshavkumardev" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" alt="keshav kumar twitter" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/keshavkumar_in" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" alt="keshav kumar twitter" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/keshav-codes" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="keshav kumar linkedin" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/keshavkumar_in" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="keshav kumar instagram" height="30" width="30" /></a>
 </p>
