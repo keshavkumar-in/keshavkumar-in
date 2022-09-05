@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [keshavkumar.in](https://keshavkumar.in)
 
-- 📝 I regularly write articles on [blog.keshavkumar.in](blog.keshavkumar.in)
+- 📝 I regularly write articles on [blog.keshavkumar.in](https://blog.keshavkumar.in)
 
 - 🎯 2021 Goals: Get a Tech Job & Contribute to Open Source Projects
 
