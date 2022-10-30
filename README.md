@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshavkumar-in" alt="keshav kumar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/keshavcodes" target="blank"><img src="https://img.shields.io/twitter/follow/keshavkumar_in?logo=twitter&style=for-the-badge" alt="keshavkumardev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/keshavcodes" target="blank"><img src="https://img.shields.io/twitter/follow/keshavcodes?logo=twitter&style=for-the-badge" alt="keshavkumar" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
